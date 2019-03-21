@@ -1,0 +1,16 @@
+---
+id: basic-workshop
+name: Developing Applications on OpenShift - Starter Lab
+
+content:
+  url: https://raw.githubusercontent.com/mglantz/starter-guides/ocp-3.11
+
+
+modules:
+  activate:
+  - common-environment
+  - common-parksmap-architecture
+  - common-cli
+  - common-explore
+  - common-further-resources
+  - common-workshop-links
